@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+/keys.txt
+/recu_physio.pdf
+.idea/
+mistralenv/
+/note_renseignements.pdf
